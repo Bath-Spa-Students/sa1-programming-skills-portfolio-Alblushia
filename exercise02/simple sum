@@ -1,0 +1,9 @@
+# Declare and initialize the variables
+num1 = 8
+num2 = 10
+
+# Declare a third variable that stores the sum of the first two numbers
+sum_result = num1 + num2
+
+# Print the value of the sum
+print(sum_result)
