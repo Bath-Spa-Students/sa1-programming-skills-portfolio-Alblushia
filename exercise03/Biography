@@ -1,0 +1,7 @@
+## Exercise 3: Biography 
+name = "Haleema"#name
+print("name")
+country = "United Arab Emirates"#country
+print("country")
+age = "20"#age
+print("age")
