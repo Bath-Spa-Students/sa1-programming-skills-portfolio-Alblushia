@@ -1,0 +1,10 @@
+
+## Exercise 4: Primitive Quiz
+ #Step 1: Ask the user the question
+answer = input("What is the capital of France? ")
+
+# Step 2: Evaluate the answer and provide feedback
+if answer.lower() == "paris":
+    print("Correct! Paris is the capital of France.")
+else:
+    print("Wrong answer. The correct answer is Paris.")
