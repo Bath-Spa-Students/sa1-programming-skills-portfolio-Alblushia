@@ -1,0 +1,8 @@
+# Assigning the favorite number to a variable
+favorite_num="12"
+
+# Creating a message that reveals the favorite number
+message = "My favorite num is  " + str(favorite_num) + "12"
+
+# Printing the message
+print(message)
