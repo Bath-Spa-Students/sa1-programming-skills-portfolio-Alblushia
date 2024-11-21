@@ -1,0 +1,6 @@
+# Storing the names of friends in a list
+names = ["alice", "jennie", "lara", "dia"]
+
+# Printing each friend's name by accessing each element in the list
+for name in names:
+    print(name)
