@@ -1,0 +1,10 @@
+# Start a loop to ask for pizza toppings
+while True:
+    topping = input("Enter a pizza topping (or type 'quit' to stop): cheeze")
+
+    # Check if the user wants to quit
+    if topping.lower() == 'quit':
+        break
+
+    # Print a message saying the topping will be added
+    print(f"Adding {topping} to your pizza!")
