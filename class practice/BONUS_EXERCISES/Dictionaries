@@ -1,0 +1,13 @@
+# Storing information about a person in a dictionary
+person_detail = {
+    'first_name': 'haleema',
+    'last_name': 'baloch',
+    'age': 19,
+    'city': 'dubai'
+}
+
+# Printing each piece of information stored in the dictionary
+print("First Name:", person_detail['first_name'])
+print("Last Name:", person_detail['last_name'])
+print("Age:", person_detail['age'])
+print("City:", person_detail['city'])
