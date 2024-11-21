@@ -1,0 +1,7 @@
+# Assigning an initial message to the variable
+text = "Hello, my name is halima"
+print(text)
+
+# Changing the value of the variable to a new message
+text = "How are you."
+print(text)
