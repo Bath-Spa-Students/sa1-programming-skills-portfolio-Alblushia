@@ -1,0 +1,8 @@
+# Assigning strings to different variables
+string1 = "Good"
+string2 = "Morning"
+string3 = "students"
+
+# Concatenating and printing the output as one string
+result = string1 + " " + string2 + string3
+print(result)
