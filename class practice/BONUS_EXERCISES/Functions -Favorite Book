@@ -1,0 +1,6 @@
+# Define the function favorite_book() that accepts one parameter 'title'
+def favorite_book(its end with us):
+    print(f"One of my favorite books is {[its end with us]}.")
+
+# Call the function with a book title as an argument
+favorite_book("its end with us")
